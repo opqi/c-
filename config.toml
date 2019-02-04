@@ -1,0 +1,18 @@
+[database]
+
+DB_HOST = 'localhost'
+DB_PORT = 5432
+
+DB_NAME = 'clients'
+DB_USER = 'admin'
+DB_PASS = 'root'
+
+[host]
+
+SE_HOST = '127.0.0.1'
+SE_PORT = 8000
+
+[email]
+
+EM_LOGIN = 'laurence.server.opqi@gmail.com'
+EM_PASS = 'qwerty#12345'
