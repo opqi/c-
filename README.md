@@ -23,7 +23,7 @@ Where DB_USER, DB_PASS, DB_NAME are paramenters from config.toml
 ## HowToUse
     $ curl -X POST -d "email=user@emaple.com&url=http://site.com/file" http://localhost:port/submit
     >>> {"id": "0e81b516-280f-11e9-909c-08002791cd3b"}
-    $ curl -X GET http://localhost:port/submit&id=0e81b516-280f-11e9-909c-08002791cd3b
+    $ curl -X GET http://localhost:port/check&id=0e81b516-280f-11e9-909c-08002791cd3b
     >>> {
          "md5": "c5c5b46a765f33a6836a1d420f5b68a3",
          "status": "done",
