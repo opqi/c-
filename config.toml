@@ -14,5 +14,5 @@ SE_PORT = 8000
 
 [email]
 
-EM_LOGIN = 'laurence.server.opqi@gmail.com'
+EM_LOGIN = 'HOST_EMAIL_ADDR'
 EM_PASS = 'PASSWORD'
